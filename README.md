@@ -7,4 +7,4 @@ backend applications, AI-powered systems, and cloud-based solutions.
 
 ### 🔗 Connect
 
-[LinkedIn](www.linkedin.com/in/surendar92) • [Portfolio](YOUR_PORTFOLIO)
+[LinkedIn](www.linkedin.com/in/surendar92) • [Portfolio](https://suramaxi92.github.io/surendar-portfolio/)
